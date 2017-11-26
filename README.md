@@ -1,10 +1,12 @@
-# FriendlyChat
+# Club Team App
 
-This repository contains code for the FriendlyChat project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
+This repository contains code for the Club Team project based on FriendlyChat  project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
 
 ## Overview
 
-FriendlyChat is an app that allows users to send and receive text and photos in realtime across platforms.
+Club Team App allows users receive a feed of news with text and images as well as notifications.
+Text, images and notifications can only be sent by authorized users.
+Not appropriate words will be translated into nice once by google cloud functions.
 
 ## Setup
 
