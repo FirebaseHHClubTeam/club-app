@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/f2822dc2394ff7750bcb1a490653c248321228f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_d66ace4df4e12174d6deff5e4ec73897191a3277.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/c47e2c3d0f4efa426c74a3f5b122befcbb8e6d3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_0d49e31a2b5ad51e6adf35e4b9f4d72e4705228e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/64e825b737865fa009949ae35b5b8eb182b01bf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_3f69021158a75e3b687a79378afe35d9932964af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/e4251329aef6b8e5c74d3fb0b0f49641499c7b06/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_4f03d0f507af7c8e782e71368d11c8aacabb88c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/2525e6abad59e2a0356d68e067fdde69ef5dc29f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_94edb48a89b232af462d65b0dfd5970c6bbc9e8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/3b8b1c5f78bcb86c1619e5d4d90d5394d49f0a56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_bd48c22a79a9940c47c6696769b61f8726736f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/2dac0f1f5f4c685bb5ddd0ea9921aac439718b81/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_5e67ea35507ab52190f41b590d8ed9a57bea0a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/62a221fa609c9371e845c8218a4e473107473154/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_bd53dbb49659df02219bf114cbb35e79ebb217b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/2f27d2f3b547fd7305ece0052795e00dcf78b622/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_2d65b2a0605010dfc05c3cd39a9fbcda43351b00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/785b51e8d13e110ab76e156ba3e4415cd43d574d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_6470a0ec3c0a4819ec4883ea10e1890446ea2cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/a6a689764f3f23f0c8917653607d0f71a4eaffdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_47ff7fa40d0931728e5a1a11a1f24f1cf981dc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/e3d1ddf1ae0ea98b49f285bef3181d12b7e67ee1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_0e9fa9375c15b8af81a07e5ca053ea1bfd94811c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/2668625dd349eb2d546d6d3c3d2381bda9008615/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_33d1fe6e9a3a39e5517bb2429175a97c03e72263.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/clemenssietas/.android/build-cache/cb35eda0f4ff10385d43380b13c6774133d3b5be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/clemenssietas/Documents/android-projects/and-nd-firebase-1.00-starting-point/app/build/intermediates/pre-dexed/debug/classes_bd5a8a06aabe12e810a933e05d4f133e076ff8bc.jar" />
+    </item>
+
+</items>
