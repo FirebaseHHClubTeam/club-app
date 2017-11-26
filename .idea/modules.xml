@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/firebase-HH-Club-Team.iml" filepath="$PROJECT_DIR$/firebase-HH-Club-Team.iml" />
+      <module fileurl="file://$PROJECT_DIR$/club-app.iml" filepath="$PROJECT_DIR$/club-app.iml" />
     </modules>
   </component>
 </project>
